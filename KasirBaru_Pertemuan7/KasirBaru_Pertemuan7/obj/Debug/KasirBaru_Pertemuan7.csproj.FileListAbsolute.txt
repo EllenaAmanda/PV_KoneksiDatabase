@@ -1,0 +1,7 @@
+C:\Users\USER\Documents\SharpDevelop Projects\KasirBaru_Pertemuan7\KasirBaru_Pertemuan7\obj\Debug\KasirBaru_Pertemuan7.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\SharpDevelop Projects\KasirBaru_Pertemuan7\KasirBaru_Pertemuan7\obj\Debug\KasirBaru_Pertemuan7.MainForm.resources
+C:\Users\USER\Documents\SharpDevelop Projects\KasirBaru_Pertemuan7\KasirBaru_Pertemuan7\obj\Debug\KasirBaru_Pertemuan7.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\SharpDevelop Projects\KasirBaru_Pertemuan7\KasirBaru_Pertemuan7\bin\Debug\KasirBaru_Pertemuan7.exe
+C:\Users\USER\Documents\SharpDevelop Projects\KasirBaru_Pertemuan7\KasirBaru_Pertemuan7\bin\Debug\KasirBaru_Pertemuan7.pdb
+C:\Users\USER\Documents\SharpDevelop Projects\KasirBaru_Pertemuan7\KasirBaru_Pertemuan7\obj\Debug\KasirBaru_Pertemuan7.exe
+C:\Users\USER\Documents\SharpDevelop Projects\KasirBaru_Pertemuan7\KasirBaru_Pertemuan7\obj\Debug\KasirBaru_Pertemuan7.pdb
